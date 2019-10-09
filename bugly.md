@@ -1,6 +1,6 @@
 # GitTest
 
-bug log
+bug master
 
 
 duobanben 
