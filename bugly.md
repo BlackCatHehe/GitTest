@@ -1,6 +1,0 @@
-# GitTest
-
-bug master
-
-
-duobanben 
